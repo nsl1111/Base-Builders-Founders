@@ -1,2 +1,2 @@
 # Base-Builders-Founders
-test build
+test-build
